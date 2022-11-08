@@ -1,4 +1,4 @@
-[![Run App](https://github.com/kgerot/GithubActions/actions/workflows/run-app.yaml/badge.svg)](https://github.com/kgerot/GithubActions/actions/workflows/run-app.yaml)
+[![Run App Matthew Rokusek](https://github.com/MatthewR47/GithubActionsMatthewRokusek/actions/workflows/run-app.yaml/badge.svg)](https://github.com/MatthewR47/GithubActionsMatthewRokusek/actions/workflows/run-app.yaml)
 
 # Github Actions Lab
 
